@@ -45,3 +45,9 @@
 ## 🧑‍🔬 Research Interests
 
 ![cats!](https://media3.giphy.com/media/hO58ejrIKFIkw/giphy.gif)
+
+---
+
+## </> Coding Activity
+
+[![My GitHub stats](https://github-stats-extended.vercel.app/api?username=EvidenceBasedDiet)](https://github.com/stats-organization/github-stats-extended)
