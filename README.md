@@ -27,7 +27,7 @@
 - 🧾 *Machine Learning-Based Identification of Biomarkers for Early-Stage Non-Small Cell Lung Cancer Through Gene Expression Analysis*
   [https://doi.org/10.3390/ijms2710428](https://doi.org/10.3390/ijms27104282 )
 
-- 🧾 *LINE-1 ORF1p is a Promising Biomarker in Cervical Intraepithelial Neoplasia Degree Assessment
+- 🧾 *LINE-1 ORF1p is a Promising Biomarker in Cervical Intraepithelial Neoplasia Degree Assessment*
   [https://doi.org/10.1016/S0022-2836(05)80360-2](http://dx.doi.org/10.1097/pgp.0000000000001035 )
 
 ---
